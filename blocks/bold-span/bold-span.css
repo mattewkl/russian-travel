@@ -1,0 +1,6 @@
+.bold-span {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-weight: 700;
+}

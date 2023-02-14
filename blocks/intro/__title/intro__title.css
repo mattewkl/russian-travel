@@ -1,0 +1,18 @@
+.intro__title {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+    color: white;
+    text-align: left;
+}
+
+@media screen and (max-width: 767px) { 
+    .intro__title {
+        font-size: calc(32px + (54 - 32) * ((100vw - 320px) / (767 - 320)));
+        line-height: calc(35px + (58 -  35) * ((100vw - 320px) / (767 - 320)))
+    }
+    
+}
