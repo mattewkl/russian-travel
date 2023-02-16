@@ -13,7 +13,8 @@
     .place__title {
         font-size: calc(42px + (72 - 42) * ((100vw - 768px) / (1024 - 768)));
         line-height: calc(46px + (76 - 46)  * ((100vw - 768px) / (1024 - 768)));
-    }
+        padding-right: 14.5px;
+        }
     
 }
 
