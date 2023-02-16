@@ -15,14 +15,14 @@
 
 @media screen and (max-width: 1279px) {
     .cover__subtitle {
-        top: calc(379px + (429 - 379) * ((100vw - 1024px) / (1279 - 1024)))
+        top: calc(379px + (429 - 379) * ((100vw - 1024px) / (1279 - 1024)));
     }
     
 }
 
 @media screen and (max-width: 1023px) {
     .cover__subtitle {
-        top: calc(299px + (379 - 299)  * ((100vw - 767px) / (1024 - 768)))
+        top: calc(299px + (379 - 299)  * ((100vw - 767px) / (1024 - 768)));
     }
     
 }
