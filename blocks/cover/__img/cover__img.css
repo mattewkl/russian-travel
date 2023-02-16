@@ -1,0 +1,10 @@
+.cover__img {
+    filter: brightness(70%);
+    width: 100%;
+    z-index: 1;
+}
+
+.cover__img:hover {
+    filter: brightness(20%);
+    cursor: url('../../images/cursor.png') ,pointer;
+}
