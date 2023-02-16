@@ -6,5 +6,4 @@
 
 .cover__img:hover {
     filter: brightness(20%);
-    cursor: url('../../images/cursor.png') ,pointer;
 }

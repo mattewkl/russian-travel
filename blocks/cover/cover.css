@@ -13,6 +13,10 @@
     
 }
 
+.cover:hover {
+    cursor: url('../../images/cursor.png') ,pointer;
+}
+
 
 @media screen and (max-width: 1279px) {
     .cover {
