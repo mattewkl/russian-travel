@@ -6,3 +6,7 @@
     box-sizing: border-box;
     margin: 0 auto;
 }
+
+.page::before {
+  background-color: #2A2C2F;
+}
