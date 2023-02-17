@@ -1,4 +1,4 @@
-.website__url {
+.place__url {
     display: block;
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@
 
 }
 
-.website__url:hover {
+.place__url:hover {
     opacity: 0.8;
     cursor: url('../../../images/cursor.png'), pointer;
 }
